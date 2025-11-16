@@ -1,4 +1,4 @@
-# BL-Product-Card
+# bl-product-card
 
 Este es un paquete de pruebas de despliegue en NPM
 ### Benjamín López
